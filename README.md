@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hello World, I'm Hector - @hectarian 
+- I'm a skilled analyst with a passion for exploring the world through data.
+
+### 🌎🌍🌏 About Me 
+  - My journey began with visualizing information on maps, sparking a love for turning complex data into compelling visuals. I'm now expanding my analytical expertise across diverse industries, continuously seeking projects that challenge me to grow and innovate.
 
 <!--
 **hectarian/hectarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
